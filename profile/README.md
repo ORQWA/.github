@@ -19,6 +19,10 @@
   <a href="https://github.com/Torqa-Indoor-Cycling/Torqa">Source</a>
 </p>
 
+<!-- The brand video: a bare user-attachments URL on its own line. GitHub plays only uploaded
+     videos, not files in a repository, and a <video> tag stalls for signed-in visitors. -->
+https://github.com/user-attachments/assets/bd8c46de-53a1-4698-8ed4-74dce827d694
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Torqa-Indoor-Cycling/Torqa/main/docs/images/ride-lake.jpg" alt="Riding along the Bielersee in Torqa's 3D world" width="720">
 </p>
