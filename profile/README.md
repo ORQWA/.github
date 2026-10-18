@@ -23,10 +23,6 @@
      videos, not files in a repository, and a <video> tag stalls for signed-in visitors. -->
 https://github.com/user-attachments/assets/fe743d70-1262-43ae-b580-aa2246def90a
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Torqa-Indoor-Cycling/Torqa/main/docs/images/ride-lake.jpg" alt="Riding along the Bielersee in Torqa's 3D world" width="720">
-</p>
-
 ## Why Torqa
 
 - 💸 **No subscription, no account.** Torqa has no server or tracking of its own, and riding never
