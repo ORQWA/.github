@@ -21,7 +21,7 @@
 
 <!-- The brand video: a bare user-attachments URL on its own line. GitHub plays only uploaded
      videos, not files in a repository, and a <video> tag stalls for signed-in visitors. -->
-https://github.com/user-attachments/assets/fe743d70-1262-43ae-b580-aa2246def90a
+https://github.com/user-attachments/assets/9285a41e-b5ef-4dc0-81c7-b3a0732b29ee
 
 ## Why ORQWA
 
