@@ -13,10 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ORQWA/ORQWA/releases/latest"><b>Download</b></a> ·
-  <a href="https://github.com/ORQWA/ORQWA/wiki/Getting-started"><b>Getting started</b></a> ·
-  <a href="https://github.com/ORQWA/ORQWA/wiki">Usage wiki</a> ·
-  <a href="https://github.com/ORQWA/ORQWA">Source</a>
+  <a href="https://orqwa.github.io"><b>orqwa.github.io</b></a>
 </p>
 
 <!-- The brand video: a bare user-attachments URL on its own line. GitHub plays only uploaded
