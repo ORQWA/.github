@@ -49,3 +49,7 @@ https://github.com/user-attachments/assets/9285a41e-b5ef-4dc0-81c7-b3a0732b29ee
 <sub>ORQWA is in early development and every line of it is written by AI. It comes with no warranty;
 ride at your own risk (sections 15 and 16 of the
 <a href="https://github.com/ORQWA/ORQWA/blob/main/LICENSE">GPL-3.0</a>).</sub>
+
+<sub>ORQWA is an independent project. It is not affiliated with or endorsed by Zwift, Strava,
+intervals.icu, Garmin, Tacx, Wahoo, Shimano, Elite, TrainerRoad, Nextcloud or any other company
+or product named here. All names and trademarks belong to their owners.</sub>
